@@ -36,7 +36,7 @@ if not os.path.isdir("karabohca"):
      os.mkdir("karabohca")
 os.chdir("karabohca")
 
-a = input('''Введите число:''')
+a = input('''Enter Number:''')
 if '1' in a:
     os.system("git clone https://github.com/donlachin/yilan.git")
 if '2' in a:
