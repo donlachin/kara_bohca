@@ -1,3 +1,7 @@
 colorama 
 os 
 requests
+bs4
+future
+requests
+colorama
